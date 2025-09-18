@@ -1,0 +1,16 @@
+project:
+  name: 'showcase'
+  owner: 'L1'
+  teamId: '01'
+  identities: {}
+  notifications:
+    email: 'jfernandez26@us.es,pafmon@gmail.com'
+  members:
+    member1:
+      name: 'Javier'
+      surname: 'Fernández Castillo' 
+      githubUsername: 'JaviFdez7'
+    member2:
+      name: 'Pablo'
+      surname: 'Fernández Montes'
+      githubUsername: 'pafmon'
